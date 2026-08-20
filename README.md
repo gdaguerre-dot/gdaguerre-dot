@@ -42,8 +42,9 @@ separar el análisis de la pregunta de negocio que lo justifica.
 
 | Proyecto | De qué se trata |
 |---|---|
+| [**Compras Municipales — Chascomús 2019**](https://github.com/gdaguerre-dot/Chascomus-compras-2019) | Auditoría de calidad sobre 13.715 órdenes de compra públicas: detección de un factor de inflación 2.38x por duplicación de importes, reconstrucción de folios, anonimización irreversible y dashboard interactivo con análisis de red proveedor-secretaría. [Ver dashboard →](https://gdaguerre-dot.github.io/Chascomus-compras-2019/) |
 | [**Airport Market Intelligence**](https://github.com/gdaguerre-dot/Airport-market-intelligence) | Validación metodológica y rediseño de un indicador de priorización comercial (COS) sobre 688K registros de tráfico aéreo europeo. SQL Server + Power BI + DAX. |
-| [**Del ticket al patrón**](https://github.com/gdaguerre-dot/redmine-ops-analytics) | Un trimestre de tickets operativos de un sistema de gestión pública, leído como dataset: estacionalidad, cuellos de botella, y NLP (topic modeling + sentimiento) sobre el texto. [Case study interactivo →](https://gdaguerre-dot.github.io/redmine-ops-analytics/) |
+| [**Del ticket al patrón**](https://github.com/gdaguerre-dot/redmine-ops-analytics) | Un trimestre de tickets operativos de un sistema de gestión pública, leído como dataset: estacionalidad, cuellos de botella, y NLP (topic modeling + TF-IDF segmentado + sentimiento) sobre el texto. [Case study interactivo →](https://gdaguerre-dot.github.io/redmine-ops-analytics/) |
 | [**SIE Balears**](https://github.com/gdaguerre-dot/SIE-baleares-case-study) | Case study de mi paso por AYESA — modelo de datos y flujo de negocio de un sistema de gestión de infraestructura educativa para el Govern de les Illes Balears. [Ver online →](https://gdaguerre-dot.github.io/SIE-baleares-case-study/) |
 | [**SIGP–LLULL Data Quality**](https://github.com/gdaguerre-dot/sigp-llull-data-quality) | Diseño de controles de calidad de datos para una integración real entre dos sistemas de RRHH del ámbito educativo. |
 | [**Transporte Escolar VRP**](https://github.com/gdaguerre-dot/Transporte-escolar-vrp) | Optimización de rutas de transporte escolar (VRP con heurística de vecino más cercano), sobre un modelo de datos real y datos sintéticos. |
@@ -51,3 +52,4 @@ separar el análisis de la pregunta de negocio que lo justifica.
 ## 📫 Contacto
 
 [LinkedIn](https://linkedin.com/in/gerodaguerre) · gerodaguerre@gmail.com
+
